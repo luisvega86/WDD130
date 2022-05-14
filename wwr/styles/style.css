@@ -1,0 +1,97 @@
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+    }
+nav a {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+#hero-msg h1 {
+    text-align: center;
+} 
+#hero-msg h4 {
+    text-align: center;
+}
+.button-box {
+    text-align: center;
+}
+main section{
+    text-align: center;
+}
+#background {
+    height: 725px;
+}
+body {
+    background-color: #202020;
+}
+header {
+    display: inline;
+    text-align: 0 auto;
+    background-color: black;
+}
+nav a:hover {
+    color: white;
+    background-color: #d60848;
+}
+.book, .join {
+    color: white;
+    background-color: #202020;
+    text-decoration: none;
+} 
+
+.book:hover {
+    color: white;
+    background-color: #d60848;
+} 
+.join:hover {
+    color: white;
+    background-color: #d60848;
+}
+#background {
+    background-color: #01917d;
+}
+.msg {
+    background-color: white;
+}
+footer {
+    background-color: #202020;
+}
+.home-title {
+    color:  white;
+}
+h4 {
+    color: white;
+}
+h2 {
+    color: white;
+}
+.msg h2 {
+    color: white;
+}
+.msg p {
+    color: white;
+}
+footer h3 {
+    color: white;
+}
+footer a {
+    color: white;
+    text-decoration: none;
+}
+footer a:hover {
+    color: white;
+}
+.icon {
+    width: 80px;
+}
+#hero-image {
+    width: 100%;
+    margin: 0 auto;
+}
+.card-img {
+    width: 50%;
+}
+.logo {
+    width: 100px;
+}
