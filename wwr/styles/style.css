@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bahiana&family=Bahianita&display=swap');
+
 #content {
     max-width: 1600px;
     margin: 0 auto;
@@ -6,9 +8,11 @@ nav a {
     color: white;
     text-align: center;
     text-decoration: none;
+    padding: 35px;
 }
 #hero-msg h1 {
     text-align: center;
+    font-family: Bahianita;
 } 
 #hero-msg h4 {
     text-align: center;
@@ -19,16 +23,25 @@ nav a {
 main section{
     text-align: center;
 }
+
+main section img {
+    box-sizing: border-box;
+}
 #background {
     height: 725px;
 }
 body {
     background-color: #202020;
+    font-family: Bahiana;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
 }
 header {
     display: inline;
-    text-align: 0 auto;
+    text-align: center;
     background-color: black;
+    font-family: Bahiana;
 }
 nav a:hover {
     color: white;
@@ -38,6 +51,11 @@ nav a:hover {
     color: white;
     background-color: #202020;
     text-decoration: none;
+    font-family: bahianita;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
 } 
 
 .book:hover {
@@ -53,37 +71,53 @@ nav a:hover {
 }
 .msg {
     background-color: white;
+    padding: 35px;
 }
 footer {
     background-color: #202020;
 }
 .home-title {
     color:  white;
+    font-family: Bahiana;
+    font-size: 4em;
+    margin-top: 10px;
 }
 h4 {
     color: white;
+    font-family: Bahianita;
+    font-size: 2em;
 }
 h2 {
     color: white;
+    font-family: Bahianita;
+    margin: 0;
 }
 .msg h2 {
     color: white;
+    font-family: Bahianita;
 }
 .msg p {
     color: white;
+    font-family: bahianita;
+    font-size: .8em;
+    line-height: 1.5em;
+    padding-bottom: 15px;
 }
 footer h3 {
     color: white;
+    text-align: center;
 }
 footer a {
     color: white;
     text-decoration: none;
+    padding: 25px 50px;
 }
 footer a:hover {
     color: white;
 }
 .icon {
     width: 80px;
+    padding-top: 10px;
 }
 #hero-img {
     width: 100%;
@@ -91,10 +125,29 @@ footer a:hover {
 }
 .card-img {
     width: 40%;
+    border: 10px solid #202020;
 }
 .logo {
     width: 100px;
 }
 .mountains {
     width: 50%;
+}
+
+#logo_link {
+    padding-top: 5px;
+}
+
+footer .social {
+    padding-top: 15px;
+    margin: 0 auto;
+}
+
+.rivers-card, .camping-card, .rapids-card{
+    margin: 200px 0;
+}
+
+footer {
+    margin-top: 200px;
+    padding: 25px 50px;
 }
