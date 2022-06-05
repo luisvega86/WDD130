@@ -133,9 +133,9 @@ h2 {
     font-family: Bahianita;
 }
 .msg p {
-    color: white;
+    color: black;
     font-family: bahianita;
-    font-size: .8em;
+    font-size: 1em;
     line-height: 1.5em;
     padding-bottom: 15px;
 }
