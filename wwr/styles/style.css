@@ -52,7 +52,7 @@ main section img {
     box-sizing: border-box;
 }
 #background {
-    height: 925px;
+    height: 725px;
 }
 body {
     background-color: #202020;
@@ -234,7 +234,6 @@ section {
     margin-bottom: 250px;
     align-items: center;
     justify-content: center;
-    box-sizing: border-box;
 }
 .container {
     width: 100%;
