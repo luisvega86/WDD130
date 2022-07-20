@@ -146,14 +146,8 @@ footer .social {
     justify-content: center;
     padding-top: 15px;
     margin: 0 auto;
-}
-
-
-main {
-    box-sizing: border-box;
-  }
-  
-  body {
+}  
+body {
     background-color: white;
     padding: 5px;
     font-family: Flamenco;
@@ -212,7 +206,11 @@ main {
       width: 100%;
     }
   }
-
+.contact-me{
+    padding: 5em;
+    margin: 0 auto;
+    width: 400px;
+}
 /* CSS for the Contact Us site */
 form {
     /* Just to center the form on the page */
